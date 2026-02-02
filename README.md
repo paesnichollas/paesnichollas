@@ -66,4 +66,9 @@ Se você é recrutador, desenvolvedor ou estudante, fique à vontade para explor
 
 <h2>🚀 &nbsp;GitHub Stats</h2>
 
-![Nichollas GitHub Stats](https://github-readme-stats.vercel.app/api?username=paesnichollas&show_icons=true&theme=dracula)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=paesnichollas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="Nichollas GitHub Stats"
+  />
+</p>
