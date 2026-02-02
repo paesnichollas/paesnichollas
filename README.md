@@ -68,7 +68,8 @@ Se você é recrutador, desenvolvedor ou estudante, fique à vontade para explor
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=paesnichollas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="[https://github-readme-stats.vercel.app/api?username=paesnichollas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paesnichollas&show_icons=true&theme=dracula
+)"
     alt="Nichollas GitHub Stats"
   />
 </p>
